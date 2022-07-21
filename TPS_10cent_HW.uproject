@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{138CFFAD-400A-FEA3-C003-309F855E0543}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPS_10cent_HW",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
